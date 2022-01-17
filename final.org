@@ -1,0 +1,61 @@
+* Final Project
+
+** Specification
+
+
+*Select and explore a topic relevant to Ethical CS (to be approved by the instructor).* 
+
+
+Create a presentation giving an overview of the issue, why it should
+be addressed, and possible solutions. The presentation should include
+program-based examples illustrating the problem and where appropriate
+to address solutions.Depending on topic, each team may de/emphasize
+different portions.
+
+GUIDING GOAL: Leave your classmates with something they can
+incorporate into their own praxis. This could be a turn-key day/unit
+plan, code snippets or full working programs, or something more
+abstract. You know your audience...
+
+** DELIVERABLES:
+
+    PDF of presentation (I.e., If you make a slide deck, export it to
+    a PDF version.)  optional: slide deck or other content in its
+    original format (slide deck, document, etc) Any code you use or
+    cite.  Location/format: <reporoot>/final_project/*
+
+Notes on the code aspect:
+
+There must be a code component to your final project. This code
+component does not have to be polished but it should be used to either
+explore, illustrate your topic. This may be done in any programming
+language (including using spreadsheets for number crunching).
+
+
+** Topic suggestions
+- Bias in data sets
+- Loan algorithms
+- Gaming  / Smartphone / Facebook addiction
+- AI Authorship (copyright)
+- AI Hiring practices in amazon 
+- Open Source Software / Software licenses / EULAs
+- predictive policing (see NYC Data mine or other data resources for stats)
+- bail
+- Value Added Metrics (VAM)
+- gerrymandering 
+- e-waste cycle / right to repair
+- digital video in policing
+- visually accesible web
+- cryptocurrency emissions
+- digital divide
+- Right to repai
+- planned obsolescence of smartphones
+- password managers
+- HS Matching algorithm (or other matching algos)
+- Fake news
+- randomware (sortof related are patent trolls) 
+- Loan algorithms  
+- Anything based on, spinning, or extending a class topic or ethicacy topic
+
+
+
