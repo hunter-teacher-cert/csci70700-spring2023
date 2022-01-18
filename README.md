@@ -42,7 +42,7 @@ Add any other files you want to or need to include such as your slide deck, demo
 
 Add your solution to each weekly assignemnt to the folder with the appropriate topic name.
 
-### Scheduled
+## Schedule
 
 - Week 0 - Web Development (Flask) part 1
 - Week 1 - Computer Networking
