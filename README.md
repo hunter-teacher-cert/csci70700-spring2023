@@ -21,16 +21,16 @@ main working repo for Topics in  Computer Science -- Spring 2022
 ### Topic
 
 Place all materials for your topic under the folder named
-*topic*. Update the *README.org* file to include the names of all team
+**topic**. Update the **README.org** file to include the names of all team
 members as well as a description of any files/resources you've added.
 
-Add a file named either *homework.md*, *homework.docx*, or
-*homework.pdf* that include the homewokr assignment you're giving the
+Add a file named either **homework.md**, **homework.docx**, or
+**homework.pdf** that include the homewokr assignment you're giving the
 class for your topic.
 
-Add a file named *async.md*, *async.docx*, or *async.pdf* describing the async work for your topic.
+Add a file named **async.md**, **async.docx**, or **async.pdf** describing the async work for your topic.
 
-Add any other files you want to or need to include such as your slide deck, demo code or anything else you use in your presentation and make sure the *README.org* file describes them.
+Add any other files you want to or need to include such as your slide deck, demo code or anything else you use in your presentation and make sure the **README.org** file describes them.
 
 ### Homework assignments
 
