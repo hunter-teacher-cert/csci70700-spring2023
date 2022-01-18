@@ -15,6 +15,8 @@ main working repo for Topics in  Computer Science -- Spring 2022
 - Group Topic Homework Assignment (created by your group): 15%
   - the assignment will be evaluated based on CS content, as well as appropriateness in terms of length and audience
 - Other group HW assignment completions (created by other groups): 35%
+  - homework assignments assigned by topic groups are due 2 weeks after assignment with the exception of the last assignment which will
+    have a specific due date based on the end of term schedule.
 - Participation: 15%
 
 ## Repos
