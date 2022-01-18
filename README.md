@@ -16,6 +16,11 @@ main working repo for Topics in  Computer Science -- Spring 2022
 - Other group HW assignment completions (created by other groups): 35%
 - Participation: 15%
 
+## Repos
+
+Use this link to accept the repo assingment for the semester: [https://classroom.github.com/a/-Fu9sXA2](https://classroom.github.com/a/-Fu9sXA2)
+
+
 ## Submissions
 
 ### Topic
