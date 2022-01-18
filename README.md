@@ -13,6 +13,7 @@ main working repo for Topics in  Computer Science -- Spring 2022
 ## Grading
 - Group Topic lesson (sync + async): 35%
 - Group Topic Homework Assignment (created by your group): 15%
+  - the assignment will be evaluated based on CS content, as well as appropriateness in terms of length and audience
 - Other group HW assignment completions (created by other groups): 35%
 - Participation: 15%
 
