@@ -8,12 +8,16 @@ main working repo for Topics in  Computer Science -- Spring 2022
   - #cstopics - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
   - #cstopics-async - specifically for async assignments
   - #cstopics-attendance 
+  - #summer-2021 - the current cohort
   - #general - everybody including last year's cohort
 
 ## Grading
 - Group Topic lesson (sync + async): 35%
 - Group Topic Homework Assignment (created by your group): 15%
+  - the assignment will be evaluated based on CS content, as well as appropriateness in terms of length and audience
 - Other group HW assignment completions (created by other groups): 35%
+  - homework assignments assigned by topic groups are due 2 weeks after assignment with the exception of the last assignment which will
+    have a specific due date based on the end of term schedule.
 - Participation: 15%
 
 ## Repos
@@ -41,7 +45,7 @@ Add any other files you want to or need to include such as your slide deck, demo
 
 Add your solution to each weekly assignemnt to the folder with the appropriate topic name.
 
-### Scheduled
+## Schedule
 
 - Week 0 - Web Development (Flask) part 1
 - Week 1 - Computer Networking
@@ -65,5 +69,5 @@ Add your solution to each weekly assignemnt to the folder with the appropriate t
   - Marissa, Daiana, Michelle B, Stephania
 - Week 12 - Ray Tracing 
   - Peter, Brian
-- Week 14 - TBD
+- Week 13 - TBD
   
