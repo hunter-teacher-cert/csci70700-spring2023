@@ -8,6 +8,7 @@ main working repo for Topics in  Computer Science -- Spring 2022
   - #cstopics - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
   - #cstopics-async - specifically for async assignments
   - #cstopics-attendance 
+  - #summer-2021 - the current cohort
   - #general - everybody including last year's cohort
 
 ## Grading
