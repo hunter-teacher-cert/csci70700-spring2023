@@ -69,5 +69,5 @@ Add your solution to each weekly assignemnt to the folder with the appropriate t
   - Marissa, Daiana, Michelle B, Stephania
 - Week 12 - Ray Tracing 
   - Peter, Brian
-- Week 14 - TBD
+- Week 13 - TBD
   
