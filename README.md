@@ -20,6 +20,8 @@ main working repo for Topics in  Computer Science -- Spring 2022
     have a specific due date based on the end of term schedule.
 - Participation: 15%
 
+*NOTE:* All assignments will be graded on a 0 - 10 scale.
+
 ## Repos
 
 Use this link to accept the repo assingment for the semester: [https://classroom.github.com/a/-Fu9sXA2](https://classroom.github.com/a/-Fu9sXA2)
