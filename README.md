@@ -49,15 +49,15 @@ Add your solution to each weekly assignemnt to the folder with the appropriate t
 
 ## Schedule
 
-- Week 0 - Web Development (Flask) part 1
-- Week 1 - Computer Networking
-- Week 2 - Web Development (Flask) part 2
-- Week 3 - ASYNC PROJECT PREP
-- Week 4 - Databases
+- *COMPLETED* Week 0 - Web Development (Flask) part 1
+- *COMPLETED* Week 1 - Computer Networking
+- *COMPLETED* Week 2 - Web Development (Flask) part 2
+- *COMPLETED* Week 3 - ASYNC PROJECT PREP
+- *COMPLETED* Week 4 - Databases
   - Victoria and Alex
-- Week 5 - Sentence Genration
+- *COMPLETED* Week 5 - Sentence Genration
   - Ian, Emma, Michele P
-- Week 6 - Clustering / Neural Nets
+- *COMPLETED* Week 6 - Neural Nets
   - Liam, Lyuba, Jovani
 - Week 7 - Assembly Programming
   - Chris, Eric (L)
