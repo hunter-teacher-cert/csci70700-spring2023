@@ -59,7 +59,7 @@ Add your solution to each weekly assignemnt to the folder with the appropriate t
   - Ian, Emma, Michele P
 - *COMPLETED* Week 6 - Neural Nets
   - Liam, Lyuba, Jovani
-- Week 7 - Assembly Programming
+- *COMPLETED* Week 7 - Assembly Programming
   - Chris, Eric (L)
 - Week 8 - Public Key Encryption
   - Benson, Mamudu, Marina
