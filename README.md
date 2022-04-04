@@ -61,9 +61,9 @@ Add your solution to each weekly assignemnt to the folder with the appropriate t
   - Liam, Lyuba, Jovani
 - *COMPLETED* Week 7 - Assembly Programming
   - Chris, Eric (L)
-- Week 8 - Public Key Encryption
+- *COMPLETED* Week 8 - Public Key Encryption
   - Benson, Mamudu, Marina
-- Week 9 - Blockchain 
+- *COMPLETED* Week 9 - Blockchain 
   - Julian, Eric (W)
 - Week 10 - Simple Cipher Decription
   - Tiffany, Eduardo, Jiyoon
