@@ -65,7 +65,7 @@ Add your solution to each weekly assignemnt to the folder with the appropriate t
   - Benson, Mamudu, Marina
 - *COMPLETED* Week 9 - Blockchain 
   - Julian, Eric (W)
-- Week 10 - Simple Cipher Decription
+- *COMPLETED* Week 10 - Simple Cipher Decription
   - Tiffany, Eduardo, Jiyoon
 - Week 11 - 3D Graphics
   - Marissa, Daiana, Michelle B, Stephania
