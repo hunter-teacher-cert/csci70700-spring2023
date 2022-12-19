@@ -7,18 +7,17 @@ main working repo for Topics in  Computer Science -- Spring 2022
 - slack: https://hunterteacher-vyz6159.slack.com/
   - #cstopics - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
   - #cstopics-async - specifically for async assignments
-  - #cstopics-attendance 
-  - #summer-2021 - the current cohort
+  - #summer-2022 - the current cohort
   - #general - everybody including last year's cohort
 
 ## Grading
-- Group Topic lesson (sync + async): 35%
+- Group Topic lesson (sync + async): 30%
 - Group Topic Homework Assignment (created by your group): 15%
   - the assignment will be evaluated based on CS content, as well as appropriateness in terms of length and audience
-- Other group HW assignment completions (created by other groups): 35%
+- Other group HW assignment completions (created by other groups): 45%
   - homework assignments assigned by topic groups are due 2 weeks after assignment with the exception of the last assignment which will
     have a specific due date based on the end of term schedule.
-- Participation: 15%
+- Participation: 10%
 
 *NOTE:* All assignments will be graded on a 0 - 10 scale.
 
