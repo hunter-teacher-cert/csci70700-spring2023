@@ -62,7 +62,12 @@ main working repo for Topics in  Computer Science -- Spring 2022
 Use this link to accept the repo assingment for the semester: [https://classroom.github.com/a/-Fu9sXA2](https://classroom.github.com/a/-Fu9sXA2)
 
 
-* Submissions
+* Group assignment specifications:
+
+1. async assignment first
+2. live lesson
+3. homework assignment.
+
 
 ** Topic
 
