@@ -11,11 +11,11 @@ main working repo for Topics in  Computer Science -- Spring 2022
   - #general - everybody including last year's cohort
 
 * Grading
-  - Group Topic lesson (sync + async): 35%
-  - Group Topic Homework Assignment (created by your group): 15%
-	- the assignment will be evaluated based on CS content, as well as
-        appropriateness in terms of length and audience.
-  - Other group HW assignment completions (created by other groups):
+- Group Topic lesson (sync + async): 35%
+- Group Topic Homework Assignment (created by your group): 15%
+  - the assignment will be evaluated based on CS content, as well as
+    appropriateness in terms of length and audience.
+- Other group HW assignment completions (created by other groups):
     35%
     - homework assignments assigned by topic groups are due 1 week
     after assignment with the exception of the last assignment which
@@ -24,7 +24,7 @@ main working repo for Topics in  Computer Science -- Spring 2022
     groups within one week of the due date.
     - Weekly assignment grades will then be reviewed and posted by the
     instructors.
-  - Participation: 15%
+- Participation: 15%
 
 *NOTE:* All assignments will be graded on a 0 - 10 scale.
 
