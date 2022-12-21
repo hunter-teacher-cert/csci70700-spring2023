@@ -6,18 +6,44 @@ main working repo for Topics in  Computer Science -- Spring 2022
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
   - #cstopics - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
-  - #cstopics-async - specifically for async assignments
-  - #cstopics-attendance 
-  - #summer-2021 - the current cohort
+  - #cstopics-async - specifically for async discussions
+  - #summer-2022 - the current cohort
   - #general - everybody including last year's cohort
 
 ## Grading
 - Group Topic lesson (sync + async): 35%
 - Group Topic Homework Assignment (created by your group): 15%
-  - the assignment will be evaluated based on CS content, as well as appropriateness in terms of length and audience
+  - the assignment will be evaluated based on CS content, as well as
+    appropriateness in terms of length and audience.
 - Other group HW assignment completions (created by other groups): 35%
-  - homework assignments assigned by topic groups are due 2 weeks after assignment with the exception of the last assignment which will
+  - homework assignments assigned by topic groups are due 1 week after
+    assignment with the exception of the last assignment which will
     have a specific due date based on the end of term schedule.
+  - Weekly homework assignments will first be graded by the assigning
+    groups within one week of the due date.
+  - Weekly assignment grades will then be reviewed and posted by the
+    instructors.
+
+## Due Dates
+
+	Weekly assignments are due at the start of class 1 week after they
+    are assigned unless otherwise specified. Specifications and timing
+    for each groups large topic will be presented later in this document.
+	
+	Assignments not turned in on time will merit a grade of 0. Late
+    assignments will only be graded if the student follows this
+    protocol and is agreed to by the isntructors. Students with a medical exemtion meritting assitional time must also follow this protocol on each assignment where an extension is required:
+	
+	1. Work in Progress must be submitted to the GitHub repo in the correct location prior to the original due date. If no work or minimal work is submitted prior to the original due date, an extension will not be granted.
+	2. A DM must be sent to both instructors prior to the original due date.
+	3. If approved, the student will receive one extra week to
+       complete the assignment.
+    4. This policy will not apply to any assignments due on the last
+       day of classes since there will not be sufficient time before
+       grades are entered for an extension. In this case, the student
+       can opt for an incomplete in the class for the extra time if the extenson is approved.
+	
+
 - Participation: 15%
 
 *NOTE:* All assignments will be graded on a 0 - 10 scale.
