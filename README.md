@@ -25,14 +25,15 @@ main working repo for Topics in  Computer Science -- Spring 2022
     instructors.
 
 ## Due Dates
-
 	Weekly assignments are due at the start of class 1 week after they
     are assigned unless otherwise specified. Specifications and timing
     for each groups large topic will be presented later in this document.
 	
-	Assignments not turned in on time will merit a grade of 0. Late
-    assignments will only be graded if the student follows this
-    protocol and is agreed to by the isntructors. Students with a medical exemtion meritting assitional time must also follow this protocol on each assignment where an extension is required:
+	Assignments not turned in on time will merit a grade of
+    0. Late assignments will only be graded if the student follows
+    this protocol and is agreed to by the isntructors. Students with a
+    medical exemtion meritting assitional time must also follow this
+    protocol on each assignment where an extension is required:
 	
 	1. Work in Progress must be submitted to the GitHub repo in the correct location prior to the original due date. If no work or minimal work is submitted prior to the original due date, an extension will not be granted.
 	2. A DM must be sent to both instructors prior to the original due date.
