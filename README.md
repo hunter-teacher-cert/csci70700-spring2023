@@ -1,4 +1,4 @@
-# csci70700-spring2022
+# csci70700-spring2023
 
 main working repo for Topics in  Computer Science -- Spring 2022
 
@@ -61,7 +61,7 @@ Place all materials for your topic under the folder named
 **topic**. Update the **README.org** file to include the names of all team
 members as well as a description of any files/resources you've added.
 
-Add a file named either **homework.md**, **homework.docx**, or
+Add a file named either **homework.md**, **homework.docx**
 **homework.pdf** that include the homewokr assignment you're giving the
 class for your topic.
 
