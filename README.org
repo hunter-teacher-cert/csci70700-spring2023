@@ -46,9 +46,8 @@ medical exemtion meritting assitional time must also follow this
 protocol on each assignment where an extension is required:
 	
 1. Work in Progress must be submitted to the GitHub repo in the correct location using specified filenames prior to the
-original due date. If no work or minimal work is submitted prior to
-the original due date, an extension will not be granted.
-
+   original due date. If no work or minimal work is submitted prior to
+   the original due date, an extension will not be granted.
 2. A DM must be sent to both instructors prior to the original due date.
 3. If approved, the student will receive one extra week to complete the assignment.
 4. This policy will not apply to any assignments due on the last day
