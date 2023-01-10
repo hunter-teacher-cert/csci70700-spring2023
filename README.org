@@ -1,6 +1,6 @@
 * csci70700 Topics Spring2023
 
-main working repo for Topics in  Computer Science -- Spring 2022
+main working repo for Topics in  Computer Science -- Spring 2023
 
 * Discussion
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
@@ -68,6 +68,27 @@ Use this link to accept the repo assingment for the semester: [https://classroom
 2. live lesson
 3. homework assignment.
 
+* Calendar
+
+| Week                           | Prework assignment for the next week | Sync Topic | Assignment Due |
+|--------------------------------+--------------------------------------+------------+----------------|
+| 01 - 1/26                      |                                      |            |                |
+| 02 - 2/02                      |                                      |            |                |
+| 03 - 2/09                      |                                      |            |                |
+| 04 - 2/16                      |                                      |            |                |
+| 05 - 2/23                      |                                      |            |                |
+| 06 - 3/02                      |                                      |            |                |
+| 07 - 3/09                      |                                      |            |                |
+| 08 - 3/16                      | SIGCSE                               |            |                |
+| 09 - 3/23                      |                                      |            |                |
+| 10 - 3/30                      | Maybe PT conferences?                |            |                |
+| Spring Break 4/6               |                                      |            |                |
+| Spring Break 4/14              |                                      |            |                |
+| 11 - 4/20                      |                                      |            |                |
+| 12 - 4/27                      |                                      |            |                |
+| 13 - 5/04                      |                                      |            |                |
+| 14 - 5/11                      |                                      |            |                |
+| 15 - 5/18 (if needed - finals) |                                      |            |                |
 
 ** Topic
 
