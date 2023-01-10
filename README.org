@@ -6,17 +6,23 @@ main working repo for Topics in  Computer Science -- Spring 2023
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
   - #cstopics - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
-  - #cstopics-async - specifically for async discussions
+  - #cstopics-async - specifically for async assignment posting and discussions
+  - #cstopics-hw - specifically for HW assignment posting and discussion
   - #summer-2022 - the current cohort
   - #general - everybody including last year's cohort
 
 * Grading
-- Group Topic lesson (sync + async): 35%
-- Group Topic Homework Assignment (created by your group): 15%
-  - the assignment will be evaluated based on CS content, as well as
-    appropriateness in terms of length and audience.
-- Other group HW assignment completions (created by other groups):
-    35%
+- Group Topic lesson: 45%
+  - Async component (assigned 1 week brefore sync presentation)
+  - Synchronous presentation.
+  - Homework - assigned during sync presentation, due one week
+    later, to be graded by group by the following week.
+    - HW assignment will be evaluted based on CS content as well as on
+      appropriateness in terms of length and audience.
+  - Group evaluation - to be completed two weeks after sync
+    presentation (the same time, HW has to be graded by).
+  - Other group HW assignment completions (created by other groups):
+    40%
     - homework assignments assigned by topic groups are due 1 week
       after assignment with the exception of the last assignment which
       will have a specific due date based on the end of term schedule.
@@ -31,10 +37,8 @@ main working repo for Topics in  Computer Science -- Spring 2023
 * Due Dates 
 	
 	Weekly assignments are due at the start of class 1 week after they
-    are assigned unless otherwise specified. Specifications and timing
-    for each groups large topic will be presented later in this
-    document.
-	
+    are assigned unless otherwise specified.
+    
 	Assignments not turned in on time will merit a grade of
     0. Late assignments will only be graded if the student follows
     this protocol and is agreed to by the isntructors. Students with a
@@ -42,15 +46,16 @@ main working repo for Topics in  Computer Science -- Spring 2023
     protocol on each assignment where an extension is required:
 	
 	1. Work in Progress must be submitted to the GitHub repo in the
-       correct location prior to the original due date. If no work or
-       minimal work is submitted prior to the original due date, an
-       extension will not be granted.
+       correct location using specified filenames prior to the
+       original due date. If no work or minimal work is submitted
+       prior to the original due date, an extension will not be
+       granted.
 	2. A DM must be sent to both instructors prior to the original due
        date.
 	3. If approved, the student will receive one extra week to
        complete the assignment.
     4. This policy will not apply to any assignments due on the last
-       day of classes since there will not be sufficient time before
+       day of class since there will not be sufficient time before
        grades are entered for an extension. In this case, the student
        can opt for an incomplete in the class for the extra time if
        the extenson is approved.
@@ -61,12 +66,85 @@ main working repo for Topics in  Computer Science -- Spring 2023
 
 Use this link to accept the repo assingment for the semester: [https://classroom.github.com/a/-Fu9sXA2](https://classroom.github.com/a/-Fu9sXA2)
 
+Each assignment must be uploaded to the specified folder in your
+repo. When completing your large group assignment, place that work in
+your repo folder of that name.
+
+For example, if you are in the group presenting "clustering" you
+should upload all your materials - links to videos, assignment,
+presentations etc to the "clustering" folder in your repo. Students
+not in the "clustering" group will upload their homework solution for
+"clustering" to the "clustering" folder.
+
+
 
 * Group assignment specifications:
 
-1. async assignment first
-2. live lesson
-3. homework assignment.
+Each group will create a unit on their specified topic. That unit must
+include an async component, a one hour and fifteen minute synchronous
+lesson and a homework assignment that will be completed by the rest of
+the class.
+
+Each group should upload all materials to their topic folder prior to
+their delivering the synchronous part of the unit.
+
+** Asynchronous part
+This should be posted on the #topics-async channel at the end of class
+one week before your group's synchronous presentation. It should
+include an introduction to your group's topic and should prepare the
+class for your synchronous lesson.
+
+Some possible inclusions might be:
+1. Videos, either created by the group or by others on the internet
+2. Web based tutorials
+3. Articles
+4. introductory problems
+
+The above are merely suggestions. Feel free to discuss with the
+instructors other ideas for asynchronous materials you might have.
+
+** Live synchronous lesson
+
+Your group will essentially run the class session with the instructors
+possibly making announcements at the beginning or end.
+
+Every member of the group is expected to participate in some form
+during this session but the manner of participation is up to the
+group.
+
+We recommend using breakout rooms and *not* delivering the material to
+a single room of 60. You could have group members teach in parallel
+breakout rooms or you could mix and remix breakout rooms as
+appropriate.
+
+Please discuss your format with the instructors prior to your
+presentation week. 
+
+
+** Homework assignment
+
+Each group is to create a homework assignment to assess the class on
+your topic. The specific form of the assignment should be determined
+by the group but it should ultimately be scored on a 0-10 scale.
+
+This assignment should be posted on the #cstopics-hw channel at the
+end of the synchronous lesson and should have a due date one week
+later before the start of class.
+
+The group is expected to grade the assignments by the start of the
+following week. The group should copy this spreadsheet: *LINK* and
+enter the grades and share it back with the instructors.
+
+
+** Group evaluation
+
+Each group member is expected to complete this anonymous evaluation
+form for each member of their group. This must be completed one week
+after the group's HW assignment is collected (the same time that the
+HW grades should be comlpted by).
+
+*LINK* 
+
 
 * Calendar
 
@@ -90,7 +168,7 @@ Use this link to accept the repo assingment for the semester: [https://classroom
 | 14 - 5/11                      |                                      |                          |                |
 | 15 - 5/18 (if needed - finals) |                                      |                          |                |
 
-** Topic
+** Topic Groups
 
 Place all materials for your topic under the folder named
 **topic**. Update the **README.org** file to include the names of all team
