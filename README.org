@@ -17,12 +17,11 @@ main working repo for Topics in  Computer Science -- Spring 2023
   - Synchronous presentation.
   - Homework - assigned during sync presentation, due one week
     later, to be graded by group by the following week.
-    - HW assignment will be evaluted based on CS content as well as on
+    - HW assignment will be evaluated based on CS content as well as on
       appropriateness in terms of length and audience.
   - Group evaluation - to be completed two weeks after sync
     presentation (the same time, HW has to be graded by).
-  - Other group HW assignment completions (created by other groups):
-    40%
+- Other group HW assignment completions (created by other groups): 40%
     - homework assignments assigned by topic groups are due 1 week
       after assignment with the exception of the last assignment which
       will have a specific due date based on the end of term schedule.
