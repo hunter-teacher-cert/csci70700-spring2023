@@ -83,7 +83,7 @@ their delivering the synchronous part of the unit.
 
 ** Asynchronous part
 This should be posted on the #topics-async channel at the end of class
-one week before your group's synchronous presentation. It should
+*one week before* your group's synchronous presentation. It should
 include an introduction to your group's topic and should prepare the
 class for your synchronous lesson.
 
@@ -121,8 +121,10 @@ your topic. The specific form of the assignment should be determined
 by the group but it should ultimately be scored on a 0-10 scale.
 
 This assignment should be posted on the #cstopics-hw channel at the
-end of the synchronous lesson and should have a due date one week
-later before the start of class.
+end of the synchronous lesson and should have a due date *one week
+later before the start of class*.
+
+
 
 The group is expected to grade the assignments by the start of the
 following week. The group should copy this spreadsheet: *LINK* and
