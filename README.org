@@ -57,7 +57,7 @@ protocol on each assignment where an extension is required:
 
 * Repos
 
-Use this link to accept the repo assingment for the semester: *LINK*
+Use this link to accept the repo assingment for the semester: https://classroom.github.com/a/SK8NnKFf
 
 Each assignment must be uploaded to the specified folder in your
 repo. When completing your large group assignment, place that work in
