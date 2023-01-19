@@ -5,7 +5,7 @@ main working repo for Topics in  Computer Science -- Spring 2023
 * Discussion
 - standing zoom session: https://us02web.zoom.us/j/82948211667?pwd=YXVlL09tb3pXcFFnWktsNHFGSkdOZz09
 - slack: https://hunterteacher-vyz6159.slack.com/
-  - #cstopics - real-time chat during live sessions and between sessions ( __Use instead of zoomchat!__)
+  - #cstopics - real-time chat during live sessions and between sessions ( *Use instead of zoomchat!*)
   - #cstopics-async - specifically for async assignment posting and discussions
   - #cstopics-hw - specifically for HW assignment posting and discussion
   - #summer-2022 - the current cohort
@@ -34,7 +34,10 @@ main working repo for Topics in  Computer Science -- Spring 2023
 *NOTE:* All assignments will be graded on a 0 - 10 scale.
 
 * Due Dates 
-	
+** Group Topic 
+Each group's large topic assignment is due at the start of the class
+during which they run the synchronous session. 
+** Weekly assignments
 Weekly assignments are due at the start of class 1 week after they
 are assigned unless otherwise specified.
     
