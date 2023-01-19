@@ -143,9 +143,6 @@ HW grades should be comlpted by). *Please note that you should fill
 out the form once for each teammate.*
 
 https://forms.gle/3SiFGajSmYTAenRP6
-
-
-
 * Calendar
 
 | Week      | Prework assignment for the next week | Sync Topic                  | Assignment Due         |
@@ -164,12 +161,83 @@ https://forms.gle/3SiFGajSmYTAenRP6
 | 4/14      | Spring Break                         | Spring Break                |                        |
 | 11 - 4/20 | Blockchain                           | Public Key Encryption (PKE) | Ray Tracing            |
 | 12 - 4/27 | Clustering                           | Blockchain                  | PKE                    |
-| 13 - 5/04 |                                      | Clustering                  | Blockchain             |
-| 14 - 5/11 |                                      | TBD                         | Clustering             |
-| 15 - 5/18 |                                      | TBD                         |                        |
+| 13 - 5/04 | Sentiment Analysis                   | Clustering                  | Blockchain             |
+| 14 - 5/11 |                                      | Sentiment Analysis          | Clustering             |
+| 15 - 5/18 |                                      | TBD                         | Sentiment Analysis     |
 
 ** Topic Groups
 
+Networking and Flask will be covered by the class instructors
+
+Topic groups are listed in presentation date order
+*** Encryption (non public key)
+- Marra, Christine
+- Sears, Yanique
+- Tobias, Wayne
+- Young, Yenmin
+- Zou, Vanessa
+*** Graphics
+- Cassara, Aasine
+- Cojuangco, Nicole
+- Elfers-Wygand, Patricia
+- Levels, Yeidy
+- Maschmeyer, Kate
+- Robinson, Alana
+*** Assembly
+- Ciolino-Volano, Dave
+- Eckly Ben
+- Grant-Knight, Taylor
+- Hawkins, Ed
+- Lee, Amanda
+- Thomas, Merieke
+*** Functional Programming
+- Fung, Harrison
+- Lin, Jenna
+- Mohanlall, Parmanand
+- Ufrey, Ashley
+- Xue, Jing
+*** Databases
+- Henry, Shan
+- LaMorie, William
+- Lara, Erwin
+- Novillo, Jessica
+- Randazzo, Michael
+- Sabaugh, Stephen
+
+*** Ray Tracing
+- Driggers, Adam
+- Goldstein, Stacy
+- Muller, Saranii
+- Park, Mike
+- Rechtin, Elizabeth
+
+*** Public Key Encryption
+- Kaufman, Rachel
+- Martin, Kirk
+- Prado, Adam
+- Shuman, Marisa
+- Wade, Alicia
+- Wardaly, Tanya
+*** Blockchain
+- Boland, Latoya
+- Braik, Alise
+- De Silva, Chris
+- Higgins, Josh
+- Park, Jihae
+- Theobold, Jerisha
+*** Clustering
+- Adams, Seth
+- Bianchi, Joel
+- Herr, Kiana
+- Lojacono, Sam
+- Moste, David
+- Yearwood, Max
+*** Sentiment Analysis
+- McCoy, Sarah
+- Parker, Richard
+- Seccafico, Susie
+- Usman, Ahmed
+- Williams, Thea
 
 ** On submitting your topic materials
 Place all materials for your topic under the appropriate folder (that
