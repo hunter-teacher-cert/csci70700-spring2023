@@ -43,7 +43,7 @@ are assigned unless otherwise specified.
     
 Assignments not turned in on time will merit a grade of 0. Late
 assignments will only be graded if the student follows this
-protocol and is agreed to by the isntructors. Students with a
+protocol and is agreed to by the instructors. Students with a
 medical exemtion meritting assitional time must also follow this
 protocol on each assignment where an extension is required:
 	
@@ -130,7 +130,7 @@ later before the start of class*.
 
 
 The group is expected to grade the assignments by the start of the
-following week. The group should copy this spreadsheet: *LINK* and
+following week. The group should copy this spreadsheet: https://docs.google.com/spreadsheets/d/1dkbfWtU3Crbk76wDzWS2c7On2MMyTo459_z75wkt8hA/copy
 enter the grades and share it back with the instructors.
 
 
@@ -139,9 +139,11 @@ enter the grades and share it back with the instructors.
 Each group member is expected to complete this anonymous evaluation
 form for each member of their group. This must be completed one week
 after the group's HW assignment is collected (the same time that the
-HW grades should be comlpted by).
+HW grades should be comlpted by). *Please note that you should fill
+out the form once for each teammate.*
 
-*LINK* 
+https://forms.gle/3SiFGajSmYTAenRP6
+
 
 
 * Calendar
