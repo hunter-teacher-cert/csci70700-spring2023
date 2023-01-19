@@ -170,45 +170,37 @@ https://forms.gle/3SiFGajSmYTAenRP6
 
 ** Topic Groups
 
-Place all materials for your topic under the folder named
-**topic**. Update the **README.org** file to include the names of all team
+
+** On submitting your topic materials
+Place all materials for your topic under the appropriate folder (that
+is, if your topic is "assembly" then put your project materials in the
+"assembly" folder).
+
+Update the **README.org** file to include the names of all team
 members as well as a description of any files/resources you've added.
 
 Add a file named either **homework.md**, **homework.docx**
-**homework.pdf** that include the homewokr assignment you're giving the
+**homework.pdf** that include the homework assignment you're giving the
 class for your topic.
 
-Add a file named **async.md**, **async.docx**, or **async.pdf** describing the async work for your topic.
+Add a file named **async.md**, **async.docx**, or **async.pdf**
+describing the async work for your topic.
 
-Add any other files you want to or need to include such as your slide deck, demo code or anything else you use in your presentation and make sure the **README.org** file describes them.
+Add any other files you want to or need to include such as your slide
+deck, demo code or anything else you use in your presentation and make
+sure the **README.org** file describes them.
 
-### Homework assignments
+** On submitting weekly assignments
 
 Add your solution to each weekly assignemnt to the folder with the appropriate topic name.
 
-## Schedule
+Follow the naming conventions and specifications provided by the
+presenting group.
 
-- *COMPLETED* Week 0 - Web Development (Flask) part 1
-- *COMPLETED* Week 1 - Computer Networking
-- *COMPLETED* Week 2 - Web Development (Flask) part 2
-- *COMPLETED* Week 3 - ASYNC PROJECT PREP
-- *COMPLETED* Week 4 - Databases
-  - Victoria and Alex
-- *COMPLETED* Week 5 - Sentence Genration
-  - Ian, Emma, Michele P
-- *COMPLETED* Week 6 - Neural Nets
-  - Liam, Lyuba, Jovani
-- *COMPLETED* Week 7 - Assembly Programming
-  - Chris, Eric (L)
-- *COMPLETED* Week 8 - Public Key Encryption
-  - Benson, Mamudu, Marina
-- *COMPLETED* Week 9 - Blockchain 
-  - Julian, Eric (W)
-- *COMPLETED* Week 10 - Simple Cipher Decription
-  - Tiffany, Eduardo, Jiyoon
-- Week 11 - 3D Graphics
-  - Marissa, Daiana, Michelle B, Stephania
-- Week 12 - Ray Tracing 
-  - Peter, Brian
-- Week 13 - TBD
-  
+** Links (for convenience):
+*** To get your repo
+- https://classroom.github.com/a/SK8NnKFf
+*** To copy the grading sheet for when you grade the classes solutions to your topic homework assignment
+- https://docs.google.com/spreadsheets/d/1dkbfWtU3Crbk76wDzWS2c7On2MMyTo459_z75wkt8hA/copy
+*** The evaluation form that you will use to evaluate all of your group mate
+- https://forms.gle/3SiFGajSmYTAenRP6
