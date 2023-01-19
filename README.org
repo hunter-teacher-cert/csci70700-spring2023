@@ -148,25 +148,25 @@ https://forms.gle/3SiFGajSmYTAenRP6
 
 * Calendar
 
-| Week                           | Prework assignment for the next week | Sync Topic                  | Assignment Due         |
-|--------------------------------+--------------------------------------+-----------------------------+------------------------|
-| 01 - 1/26                      |                                      | Intro and network basics    |                        |
-| 02 - 2/02                      | Flask part 1                         | networking                  |                        |
-| 03 - 2/09                      | Encryption (non PKE)                 | Flask Part 1                |                        |
-| 04 - 2/16                      | Flask part 2                         | Encryption (non PKE)        | Flask part1            |
-| 05 - 2/23                      | Graphics                             | Flask Part 2                | Encryption (non PKE)   |
-| 06 - 3/02                      | Assembly                             | Graphics                    | Flask part 2           |
-| 07 - 3/09                      | Functional Programming               | Assembly                    | Graphics               |
-| 08 - 3/16                      | Databases                            | Functional Programming      | Assembly               |
-| 09 - 3/23                      | Ray Tracing                          | Databases                   | Functional Programming |
-| 10 - 3/30                      | PKE                                  | Ray Tracing                 | Databases              |
-| 4/06                           | Spring Break                         | Spring Break                |                        |
-| 4/14                           | Spring Break                         | Spring Break                |                        |
-| 11 - 4/20                      | Blockchain                           | Public Key Encryption (PKE) | Ray Tracing            |
-| 12 - 4/27                      | Clustering                           | Blockchain                  | PKE                    |
-| 13 - 5/04                      |                                      | Clustering                  | Blockchain             |
-| 14 - 5/11                      |                                      | TBD                         | Clustering             |
-| 15 - 5/18 (if needed - finals) |                                      | TBD                         |                        |
+| Week      | Prework assignment for the next week | Sync Topic                  | Assignment Due         |
+|-----------+--------------------------------------+-----------------------------+------------------------|
+| 01 - 1/26 |                                      | Intro and network basics    |                        |
+| 02 - 2/02 | Flask part 1                         | networking                  |                        |
+| 03 - 2/09 | Encryption (non PKE)                 | Flask Part 1                |                        |
+| 04 - 2/16 | Flask part 2                         | Encryption (non PKE)        | Flask part1            |
+| 05 - 2/23 | Graphics                             | Flask Part 2                | Encryption (non PKE)   |
+| 06 - 3/02 | Assembly                             | Graphics                    | Flask part 2           |
+| 07 - 3/09 | Functional Programming               | Assembly                    | Graphics               |
+| 08 - 3/16 | Databases                            | Functional Programming      | Assembly               |
+| 09 - 3/23 | Ray Tracing                          | Databases                   | Functional Programming |
+| 10 - 3/30 | PKE                                  | Ray Tracing                 | Databases              |
+| 4/06      | Spring Break                         | Spring Break                |                        |
+| 4/14      | Spring Break                         | Spring Break                |                        |
+| 11 - 4/20 | Blockchain                           | Public Key Encryption (PKE) | Ray Tracing            |
+| 12 - 4/27 | Clustering                           | Blockchain                  | PKE                    |
+| 13 - 5/04 |                                      | Clustering                  | Blockchain             |
+| 14 - 5/11 |                                      | TBD                         | Clustering             |
+| 15 - 5/18 |                                      | TBD                         |                        |
 
 ** Topic Groups
 
