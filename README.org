@@ -171,73 +171,73 @@ Networking and Flask will be covered by the class instructors
 
 Topic groups are listed in presentation date order
 *** Encryption (non public key)
-- Marra, Christine
-- Sears, Yanique
-- Tobias, Wayne
-- Young, Yenmin
-- Zou, Vanessa
+- Christine
+- Vanessa
+- Wayne
+- Yanique
+- Yenmin
 *** Graphics
-- Cassara, Aasine
-- Cojuangco, Nicole
-- Elfers-Wygand, Patricia
-- Levels, Yeidy
-- Maschmeyer, Kate
-- Robinson, Alana
+- Aasine
+- Alana
+- Kate
+- Nicole
+- Patricia
+- Yeidy
 *** Assembly
-- Ciolino-Volano, Dave
-- Eckly Ben
-- Grant-Knight, Taylor
-- Hawkins, Ed
-- Lee, Amanda
-- Thomas, Merieke
+- Amanda
+- Ben
+- Dave
+- Ed
+- Merieke
+- Taylor
 *** Functional Programming
-- Fung, Harrison
-- Lin, Jenna
-- Mohanlall, Parmanand
-- Ufrey, Ashley
-- Xue, Jing
+- Ashley
+- Harrison
+- Jenna
+- Jing
+- Parmanand
 *** Databases
-- Henry, Shan
-- LaMorie, William
-- Lara, Erwin
-- Novillo, Jessica
-- Randazzo, Michael
-- Sabaugh, Stephen
+- Erwin
+- Jessica
+- Michael (R)
+- Shana
+- Stephen
+- William
 
 *** Ray Tracing
-- Driggers, Adam
-- Goldstein, Stacy
-- Muller, Saranii
-- Park, Mike
-- Rechtin, Elizabeth
+- Adam
+- Elizabeth
+- Mike (P)
+- Saranii
+- Stacy
 
 *** Public Key Encryption
-- Kaufman, Rachel
-- Martin, Kirk
-- Prado, Adam
-- Shuman, Marisa
-- Wade, Alicia
-- Wardaly, Tanya
+- Adam
+- Alicia
+- Kirk
+- Marisa
+- Rachel
+- Tanya
 *** Blockchain
-- Boland, Latoya
-- Braik, Alise
-- De Silva, Chris
-- Higgins, Josh
-- Park, Jihae
-- Theobold, Jerisha
+- Alise
+- Chris
+- Jerusha
+- Jihae
+- Josh
+- Latoya
 *** Clustering
-- Adams, Seth
-- Bianchi, Joel
-- Herr, Kiana
-- Lojacono, Sam
-- Moste, David
-- Yearwood, Max
+- David
+- Joel
+- Kiana
+- Max
+- Sam
+- Seth
 *** Sentiment Analysis
-- McCoy, Sarah
-- Parker, Richard
-- Seccafico, Susie
-- Usman, Ahmed
-- Williams, Thea
+- Ahmed
+- Richard
+- Sarah
+- Susie
+- Thea
 
 ** On submitting your topic materials
 Place all materials for your topic under the appropriate folder (that
