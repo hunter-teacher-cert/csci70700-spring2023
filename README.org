@@ -171,10 +171,10 @@ Networking and Flask will be covered by the class instructors
 
 Topic groups are listed in presentation date order
 *** Encryption (non public key)
+- Adam
 - Christine
 - Vanessa
 - Wayne
-- Yanique
 - Yenmin
 *** Graphics
 - Aasine
@@ -212,12 +212,12 @@ Topic groups are listed in presentation date order
 - Stacy
 
 *** Public Key Encryption
-- Adam
 - Alicia
 - Kirk
 - Marisa
 - Rachel
 - Tanya
+- Yanique
 *** Blockchain
 - Alise
 - Chris
