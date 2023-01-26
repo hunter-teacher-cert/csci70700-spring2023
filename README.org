@@ -151,7 +151,7 @@ https://forms.gle/3SiFGajSmYTAenRP6
 | 02 - 2/02 | Flask part 1                         | *networking*                 |                        |
 | 03 - 2/09 | Encryption (non PKE)                 | *Flask Part 1*               |                        |
 | 04 - 2/16 | Flask part 2                         | *Encryption (non PKE)*       | Flask part1            |
-| 05 - 2/23 | Graphics                             | *Flask Part 2*               | Encryption (non PKE)   |
+| 05 - 2/23 | Graphics                             | *Flask Part 2* (ASYNC - no zoom meeting)                | Encryption (non PKE)   |
 | 06 - 3/02 | Assembly                             | *Graphics*                   | Flask part 2           |
 | 07 - 3/09 | Functional Programming               | *Assembly*                   | Graphics               |
 | 08 - 3/16 | Databases                            | *Functional Programming*     | Assembly               |
