@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hilbert IPv6 Address Map</title>
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.2.0/d3.min.js"></script>
+  <script src="//unpkg.com/ip.js@0.4.0"></script>
+  <script src="//unpkg.com/hilbert-chart"></script>
+
+  <style>
+    body {
+      margin: 0;
+      text-align: center;
+    }
+    #ipv6-chart { display: inline-block; }
+
+    .info-note {
+      font-size: 11px;
+      font-family: Sans-serif;
+      opacity: 0.5;
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translate(-50%);
+    }
+  </style>
+
+</head>
+<body>
+  <div id="ipv6-chart"></div>
+  <div class="info-note">(use mouse-wheel/drag to zoom/pan)</div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+
+      // Get the whole IPv6 data
+      d3.csv('./ipv6-address-space.csv', function(globalData) {
+
+        // Get the IPv6 unicast data
+        d3.csv('./ipv6-unicast.csv', function(unicastData) {
+
+          data = globalData.concat(unicastData);
+
+          data.forEach(function(row) {
+            // Downsize to 32 bit space to prevent overflow
+            row.prefix = shiftPrefix(new Ip.Prefix(row.Prefix || row['IPv6 Prefix']), -96).toString();
+            row.name = row.Designation || row.Allocation;
+          });
+
+          HilbertChart()
+            .hilbertOrder(32 / 2)
+            .data(parseIpData(data))
+            .rangePadding(0.03)
+            .valFormatter(ipFormatter)
+            .rangeTooltipContent(d => `<b>${d.name}</b>: ${prefixFormatter(d)}`)
+            (document.getElementById("ipv6-chart"));
+        });
+      });
+    });
+
+    //
+
+    function parseIpData(ipData) {
+      var prefixes = [],
+        ignoreNames = ['global unicast'];
+
+      ipData.map(function(row) {
+        var pref = new Ip.Prefix(row.prefix);
+        return {
+          start: pref.firstIp().toNum(),
+          length: Math.max(1, Math.pow(2, 128 - pref.cidr)),
+          name: getName(row.name),
+          infos: [row]
+        };
+      }).filter(function(prefix) {
+        // Remove unicast placeholder
+        return ignoreNames.indexOf(prefix.name.toLowerCase()) === -1;
+      }).forEach(function(prefix) {
+        var last;
+
+        if (prefixes.length
+            && (last = prefixes[prefixes.length - 1])
+            && last.name === prefix.name
+            && (last.start + last.length === prefix.start)) {
+
+          last.length += prefix.length;
+          last.infos.push(prefix.infos[0]);
+        } else {
+          prefixes.push(prefix);
+        }
+      });
+
+      return prefixes;
+
+      //
+
+      function getName(designation) {
+        var name = designation;
+
+        if (name.indexOf('Administered by') > -1) {
+          name = "Various Registries";
+        }
+
+        return name;
+      }
+    }
+
+    function ipFormatter(d) {
+      return shiftIp(new Ip.Addr(d), 96).toString();
+    }
+
+    function prefixFormatter(d) {
+      var ipRange = new Ip.Range(d.start, d.start + d.length - 1),
+        prefixes = ipRange.toPrefixes();
+
+      if (ipRange.isIPv4()) {
+        // Move CIDR to v6 range for low number prefixes
+        prefixes[0].cidr += 96;
+      }
+
+      return (prefixes.length===1
+        ? shiftPrefix(prefixes[0], 96)
+        : shiftRange(ipRange, 96)
+      ).toString();
+    }
+
+    // bits: positive shifts up, negative shifts down
+    function shiftIp(ip, bits) {
+      var bin = ip.toBin();
+      if (bits < 0) {
+        bin = bin.slice(0, bin.length + bits);
+        if (!bin.length) bin = '0';
+      } else {
+        for (;bits;bits--) { bin += '0'; }
+      }
+
+      return new Ip.Addr(parseInt(bin, 2));
+    }
+
+    function shiftPrefix(pref, bits) {
+      return new Ip.Prefix(shiftIp(pref.firstIp(), bits), pref.cidr - bits);
+    }
+
+    function shiftRange(pref, bits) {
+      return new Ip.Range(shiftIp(pref.firstIp(), bits), shiftIp(pref.lastIp(), bits));
+    }
+  </script>
+</body>
+</html>
