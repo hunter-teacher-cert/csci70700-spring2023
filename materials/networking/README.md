@@ -7,7 +7,7 @@ Files:
 
 Links:
 - [Live slide deck](https://hunter-teacher-cert.github.io/csci70700-spring2023/materials/networking/#1)
-- [XKCD IPv4 address space comic]()
-- [Network ports list]()
-- [Maps of the internet]()
-- [The internet, explained]()
+- [XKCD IPv4 address space comic](https://xkcd.com/195/)
+- [Network ports list](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+- [40 cool maps of the internet](https://www.vox.com/a/internet-maps)
+- [The internet, explained](https://www.vox.com/2014/6/16/18076282/the-internet). A nice explanation of the internet I usually have my students read.
