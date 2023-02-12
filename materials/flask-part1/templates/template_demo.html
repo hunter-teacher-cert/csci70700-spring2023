@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="/static/style.css">
+  
+<h1>This is showing</h1>
+<h2>Template stuff</h2>
+
+You can do lots of things with templates
+
+We can sub a variable like name: {{name}}
+{% if r > 50 %}
+<h2>{{d['first']}}</h2>
+{% else %}
+<h2>{{d['last']}}</h2>
+{% endif %}
+<ol>
+  <li> We saw subst above</li>
+  <li> We can include static like css</li>
+  <li> We can loop and if</li>
+</ol>
+
+<ol>
+  {%for item in d['l']%}
+  <li>{{item}}</li>
+  {% endfor %}
+</ol>
+{{d}}
