@@ -1,0 +1,20 @@
+<h1>Form Demo</h1>
+
+
+<h2>TODO List</h2>
+
+<ol>
+  {% for item in todos %}
+  <li>{{item}}</li>
+  {% endfor %}
+</ol>
+
+<form method="POST">
+Add to list:
+  <input name="TODO">
+  <br>
+<button name="submit" value="doit">SUBMIT</button>
+<button name="submit" value="clear">Clear</button>
+  
+</form>
+<h1>After the form</h1>

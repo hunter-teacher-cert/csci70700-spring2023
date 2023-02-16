@@ -1,0 +1,7 @@
+* Flask resources
+
+- Main site (quickstart and/or tutorial) https://flask.palletsprojects.com/en/2.2.x/
+- Flask mega tutorial ttps://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+- Many more references on this page  -   https://www.fullstackpython.com/flask.html
+
+
