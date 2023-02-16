@@ -44,7 +44,7 @@ are assigned unless otherwise specified.
 Assignments not turned in on time will merit a grade of 0. Late
 assignments will only be graded if the student follows this
 protocol and is agreed to by the instructors. Students with a
-medical exemtion meritting assitional time must also follow this
+medical accomodation meritting assitional time must also follow this
 protocol on each assignment where an extension is required:
 	
 1. Work in Progress must be submitted to the GitHub repo in the correct location using specified filenames prior to the
