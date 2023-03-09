@@ -268,7 +268,7 @@ presenting group.
 ** Links (for convenience):
 *** To get your repo
 - https://classroom.github.com/a/SK8NnKFf
-*** To copy the grading sheet for when you grade the classes solutions to your topic homework assignment
-- https://docs.google.com/spreadsheets/d/1dkbfWtU3Crbk76wDzWS2c7On2MMyTo459_z75wkt8hA/copy
-*** The evaluation form that you will use to evaluate all of your group mate
-- https://forms.gle/3SiFGajSmYTAenRP6
+*** For grading Homework
+- A link will be sent to you the day the homeworks are due
+*** Evaluation form that you will use to evaluate all of your group mate
+- hA link will be sent to you one one week after your groups homeworks are due
